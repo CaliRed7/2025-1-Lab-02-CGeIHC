@@ -1,1 +1,9 @@
-# 2025-1-Lab-02-CGeIHC
+**NOMBRE COMPLETO:** Cadena Luna Iván Adrián
+
+**Nº de Cuenta:** 318304188
+
+**GRUPO DE LABORATORIO:** 01
+
+**GRUPO DE TEORÍA:** 04
+
+**SEMESTRE 2025-1**
